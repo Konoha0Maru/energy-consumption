@@ -1,0 +1,2 @@
+In this project, I will use LSTM models for a time series prediction task. The goal is to create a model that can accurately predict energy usage given historical consumption data provided.
+
